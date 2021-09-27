@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "test" {
-  name     = "${var.prefix}-workshop"
+  name     = "try_again"
   location = var.location
 }
 
